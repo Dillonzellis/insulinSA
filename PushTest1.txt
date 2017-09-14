@@ -1,1 +1,5 @@
 Dillon Ellis push test
+
+http://www.cas.mcmaster.ca/~mohammh/projects/insullin-pump.php
+
+https://ifs.host.cs.st-andrews.ac.uk/Resources/CaseStudies/InsulinPump/Documents/InsulinPumpSystemDesign.pdf
